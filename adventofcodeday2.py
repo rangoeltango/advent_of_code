@@ -20,9 +20,6 @@ In the example above, games 1, 2, and 5 would have been possible if the bag had 
 
 ##Determine which games would have been possible if the bag had been loaded with only 12 red cubes, 13 green cubes, and 14 blue cubes. What is the sum of the IDs of those games?'''
 
-## Import Regular Expressions library
-import re
-
 ## Opening file without error checking, sorry! I named my dataset advent2.txt as you can see!
 fname = 'advent2.txt'
 fhand = open(fname)
